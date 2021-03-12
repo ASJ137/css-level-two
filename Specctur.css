@@ -1,0 +1,47 @@
+h1{
+font-family: 'Shippori Mincho', serif;
+text-align: center;
+}
+
+.art{
+  margin:auto;
+}
+
+
+
+td{
+
+  height:400px;
+  width:200px;
+  border:6px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+#one{
+  background:#6B2737;
+}
+
+#two{
+  background:#e08e45;
+}
+
+#three{
+  background:#f8f4a6;
+}
+
+#four{
+  background:#bdf7b7;
+}
+
+#five{
+  background:#3943b7;
+}
